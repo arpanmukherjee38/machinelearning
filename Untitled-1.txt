@@ -1,2 +1,0 @@
-USER = 'Arpan MUkherjee"
-BOT = 'ARPAN'
